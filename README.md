@@ -7,7 +7,10 @@ This is a guide with useful links for getting started with web development
 => For Back-End development, Flavio Copes has a free e-books that go into detail on Node.js and Express.js
    Here's a link to his website: https://flaviocopes.com/
    You'll have to sign up for his weekly newsletter to download the e-books.
+   He uploads tutorials related to web development almost daily on his website, so that may be worth checking out.
    
 => Here's a link for free API's for your projects: https://github.com/public-apis/public-apis
 
 We'll continue to add more useful resources in the future!
+
+If you have any resource that you think should be on the list, email us the link and description( optional ) at contact@dcutd.org
