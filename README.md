@@ -15,7 +15,8 @@ This is a guide with useful links for getting started with web development
   
         [Bulma](https://bulma.io/documentation/): A free and open-source CSS framework based on Flexbook.
         
-        [Polymer project](https://www.polymer-project.org/): Polymer is an open-source JavaScript library for building web applications using Web Components. The library is being developed by Google developers and contributors on GitHub.
+   - JavaScript libraries are widely used to design web pages    
+       [Polymer project](https://www.polymer-project.org/): Polymer is an open-source JavaScript library for building web applications using Web Components. The library is being developed by Google developers and contributors on GitHub.
         
         [React](https://reactjs.org/tutorial/tutorial.html): React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
 
