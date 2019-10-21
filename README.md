@@ -4,8 +4,10 @@ This is a guide with useful links for getting started with web development
 
 
  # Front-End
-
    -  First and foremost [MDN web docs](https://developer.mozilla.org/en-US/docs/Web) is the most useful resource for getting started with Front End Develpment. It has a lot of useful guides for getting started with HTML, CSS, Javascript as well as other interesting topics!
+   - For HTML: (https://developer.mozilla.org/en-US/docs/Web/HTML)
+   - For CSS: (https://developer.mozilla.org/en-US/docs/Web/CSS)
+   - For JavaScript: (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
    - Front end CSS libraries make it easier and faster to design web pages, here are some useful ones to learn:
    
