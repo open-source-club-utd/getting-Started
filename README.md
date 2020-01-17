@@ -32,7 +32,7 @@ Let's go through some examples of front-end designs to understand why there's a 
    Down here is an example of a plain text website, its usually composed primarily with HTML. Nothing inherently wrong with it, it presents all the specified information.
    
    The reason why its not that common to see websites with similar structure/design is that not only are sites like this static and they weren't meant to be interactive. 
-   ![Hrrible design](https://camo.githubusercontent.com/bad88546478d5f09420efaad2c42b01a35d534a9/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f732f6a6262356e666461733668343030622f73637265656e73686f745f706c61696e5f68746d6c5f626c6f672e706e67)
+   ![Hrrible design](https://inteng-storage.s3.amazonaws.com/images/import/2017/08/oldestwebsites4.jpg)
    
    
    Moving on, we have an example of bad design, this website presents a lot of useless information combined with poorly implemented CSS.
