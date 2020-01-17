@@ -32,6 +32,7 @@ Let's go through some examples of front-end designs to understand why there's a 
    Down here is an example of a plain text website, its usually composed primarily with HTML. Nothing inherently wrong with it, it presents all the specified information.
    
    The reason why its not that common to see websites with similar structure/design is that not only are sites like this static and they weren't meant to be interactive. 
+   
    ![Hrrible design](https://inteng-storage.s3.amazonaws.com/images/import/2017/08/oldestwebsites4.jpg)
    
    
@@ -43,6 +44,8 @@ Let's go through some examples of front-end designs to understand why there's a 
    
    ![Great Design](https://www.macobserver.com/imgs/tips/apple_site_no_shopping.jpg?x58429)
    
+   So hopefully now you know why visually appealing websites are better than just a plain static webpage.
+   
    - Front end CSS libraries make it easier and faster to design web pages, here are some useful ones to learn:
    
         [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/): It's popular framework for building responsive, mobile-first sites.
@@ -53,7 +56,9 @@ Let's go through some examples of front-end designs to understand why there's a 
         
    - JavaScript libraries are widely used to design web pages    
    
-        [React](https://reactjs.org/tutorial/tutorial.html): React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. Arguably the most popular framework for building 
+        [React](https://reactjs.org/tutorial/tutorial.html): React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. 
+        
+        Arguably the most popular framework for building dynamic interactive websites that's used by millions of developers world-wide. This large user-base makes sure that react is very well documented and maintainable.
 
 # Back-End
 - [Node.js](https://nodejs.org/en/docs/guides/): Node.js is a powerful Javascript runtime environment that can be used to create the back-end of your web applications. When used with web application frameworks such as [Express](https://expressjs.com/) it allows for the creation of dynamic multi-page web applications.
