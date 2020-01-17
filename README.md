@@ -1,6 +1,6 @@
 # Table
    1. Introduction
-   2. Baiscs
+   2. Basics
    3. Front-End
    4. Back-End
 # Introduction
@@ -25,6 +25,24 @@ If you have no prior experience in web development this is the stuff that you ne
 
  # Front-End
  
+The front-end is anything that the user sees when they interact with your website. It's important to have visually appealing websites in order to effectively engage your users.
+
+Let's go through some examples of front-end designs to understand why there's a need of visual appeal in websites. We'll present 3 different landing pages, and let you decide which one you like the best.
+   
+   Down here is an example of a plain text website, its usually composed primarily with HTML. Nothing inherently wrong with it, it presents all the specified information.
+   
+   The reason why its not that common to see websites with similar structure/design is that not only are sites like this static and they weren't meant to be interactive. 
+   ![Hrrible design](https://camo.githubusercontent.com/bad88546478d5f09420efaad2c42b01a35d534a9/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f732f6a6262356e666461733668343030622f73637265656e73686f745f706c61696e5f68746d6c5f626c6f672e706e67)
+   
+   
+   Moving on, we have an example of bad design, this website presents a lot of useless information combined with poorly implemented CSS.
+   
+   ![Bad Design](https://www.shopping-cart-migration.com/wp-content/uploads/2017/11/what-you-sell.png)
+   
+   Now, coming to great design, Apple is a company that's obsessed with achieving amazing design. Their website has all the qualities of a great website, including a clean minimalistic design that only presents the necessary information.
+   
+   ![Great Design](https://www.macobserver.com/imgs/tips/apple_site_no_shopping.jpg?x58429)
+   
    - Front end CSS libraries make it easier and faster to design web pages, here are some useful ones to learn:
    
         [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/): It's popular framework for building responsive, mobile-first sites.
